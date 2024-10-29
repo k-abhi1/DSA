@@ -56,7 +56,6 @@ int main(){
         printf("Element is found at %d ", i);
         break;
      }
-  }
   end = clock();
   if(i == size)
      printf("Given element is not found in the list!!!");
@@ -65,6 +64,17 @@ int main(){
   printf("\nTime taken to search element is: %f",time);
   getch();
 }
+
+
+
+
+
+
+
+
+
+
+
 
 
 
