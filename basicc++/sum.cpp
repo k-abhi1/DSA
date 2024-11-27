@@ -1,5 +1,5 @@
 #include<iostream>
-using namespce std;
+using namespace std;
  int main(){
     int a,b,sum;
     cout<<"enter the first number";
